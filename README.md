@@ -17,9 +17,9 @@
 
 <p align="left">
   <a href="https://www.instagram.com/404felipe/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=#9fef00&link=https://www.instagram.com/404felipe"/>
+    <img src="https://img.shields.io/badge/-Instagram-9fef00?style=for-the-badge&logo=Instagram&logoColor=000000&link=https://www.instagram.com/404felipe"/>
   </a>
   
   <a href="https://www.linkedin.com/in/404felipe" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=#9fef00&link=https://www.linkedin.com/in/404felipe"/>
+    <img src="https://img.shields.io/badge/-Linkedin-9fef00?style=for-the-badge&logo=Linkedin&logoColor=000000&link=https://www.linkedin.com/in/404felipe"/>
   </a>
