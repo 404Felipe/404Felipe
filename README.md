@@ -23,3 +23,5 @@
   <a href="https://www.linkedin.com/in/404felipe" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-9fef00?style=for-the-badge&logo=Linkedin&logoColor=000000&link=https://www.linkedin.com/in/404felipe"/>
   </a>
+ 
+ ![Snake animation](https://github.com/404felipe/404felipe/blob/output/github-contribution-grid-snake.svg)
