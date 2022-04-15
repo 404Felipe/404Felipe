@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/iuricode/iuricode/04318fca888b09d22750a72a72c6c8a8866f64e4/ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
+<img src="https://raw.githubusercontent.com/iuricode/iuricode/04318fca888b09d22750a72a72c6c8a8866f64e4/ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo readme">
 
 <p align="left"> 
  🖖 Oi sou Felipe e estudo Cyber-segurança</strong> e <strong>Back-and</strong>.
