@@ -9,9 +9,14 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong> VS Code, Figma, Vercel, Git e GitHub, AWS </strong>
+  💼 Ferramentas: <strong> VS Code, Figma, Vercel, Git e GitHub, AWS. </strong>
 </p>
 
+<p align="left">
+  ⚙️ Utilitarios: <strong> Nmap, Ngrok, Kali Linux, Reverse Shells.</strong>
+</p>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/H4yd3n.png" alt="TryHackMe">
 
 <br>
 
