@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  ⚙️ Utilitarios: <strong> Nmap, Ngrok, Kali Linux, Reverse Shells.</strong>
+  ⚙️ Utilitarios: <strong> Maltego, Burpsuite, Wireshark, Sqlmap, Nmap e Jhon.</strong>
 </p>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/H4yd3n.png" alt="TryHackMe">
