@@ -1,26 +1,18 @@
 <img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" min-width="300px" max-width="300px" width="300px" align="right" alt="logo readme">
 
-<p align="left"> 
- 🖖 Oi, sou Felipe e estudo Cyber-segurança </strong> e <strong> Back-and </strong>.
-</p>
+```diff
+< Felipe Silva' 
 
-<p align="left">
- ☕ Habilidades: <strong> HTML, CSS, JavaScript, TypeScript, Node.js.</strong>
-</p>
+> estudande de Cyber Securuty;
+> Bug Bounty Hunter | Web Pentester | Web Application Security Research;
+> admin' OR '1'='1' -- -.
 
-<p align="left">
-  💼 Ferramentas: <strong> VS Code, Figma, Vercel, Git e GitHub, AWS. </strong>
-</p>
+! em algun lugar do back-end
+! sempre estudando
+```
 
-<p align="left">
-  ⚙️ Utilitarios: <strong> Maltego, Burpsuite, Wireshark, Sqlmap, Nmap e Jhon.</strong>
-</p>
+#### 🔗 Minhas Redes:
 
+<a href="https://twitter.com/MrH4yd3n"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/404felipe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
-<br>
-  
-  <a href="https://www.linkedin.com/in/404felipe" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-9fef00?style=for-the-badge&logo=Linkedin&logoColor=000000&link=https://www.linkedin.com/in/404felipe"/>
-  </a>
- 
- ![Snake animation](https://github.com/404felipe/404felipe/blob/output/github-contribution-grid-snake.svg)
