@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" min-width="300px" max-width="300px" width="300px" align="right" alt="logo readme">
+<img src="https://app.hackingclub.com/media/logos/machines/Rabbit.png?t=1698788727704&v=4" min-width="300px" max-width="300px" width="300px" align="right" alt="logo readme">
 
 ```diff
 < Felipe Silva' 
