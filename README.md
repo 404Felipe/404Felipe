@@ -3,12 +3,12 @@
 ```diff
 < Felipe Silva' 
 
-> estudande de Cyber Securuty;
+> Cyber Security student;
 > Bug Bounty Hunter | Web Pentester | Web Application Security Research;
 > admin' OR '1'='1' -- -.
 
-! em algun lugar do back-end
-! sempre estudando
+! somewhere in the backend
+! always thinking outside the box!
 ```
 
 ### Perfil:
